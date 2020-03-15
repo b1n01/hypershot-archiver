@@ -1,0 +1,16 @@
+{
+  "name": "hypershot-archiver",
+  "version": "0.1.0",
+  "description": "Archive hypershots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat-node": "^3.5.15",
+    "dat-store": "^4.1.0",
+    "hypershot": "git+https://github.com/chielorenz/hypershot.git"
+  }
+}
